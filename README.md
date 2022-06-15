@@ -1,37 +1,25 @@
-# favorite-template
+# Vanilla JavaScript mini projects
 
-# Below table of contents is visual guide for projects
-## Table of Contents
-* [Project Goals](#project-goals)
-    * [User Goals](#user-goals)
-    * [Site Owners Goals](#site-owners-goals)
-* [User Experience](#user-experience-ux)
-    * [Target Audience](#target-audience)
-    * [User Requirements and Expectations](#user-requirements-and-expectations)
-* [User Stories](#user-stories)
-    * [Site User](#site-user)
-    * [Site Owner](#site-owner)
-* [Design](#design)
-    * [Color Scheme](#color-scheme)
-    * [Fonts](#color-scheme)
-    * [Structure](#color-scheme)
-    * [Wireframes](#wireframes)
-* [Technologies & Tools](#technologies--tools)
-* [Features](#features)
-* [Validation](#validation)
-    * [HTML Validation](#html-validation)
-    * [CSS Validation](#css-validation)
-    * [JavaScript Validation](#javascript-validation)
-    * [Accessibility](#accessibility)
-    * [Performance](#performance)
-* [Testing](#testing)
-    * [Device Testing](#device-testing)
-    * [Browsers Tested](#browsers-tested)
-    * [Testing User Stories](#testing-user-stories)
-* [Bugs](#bugs)
-* [Deployment](#deployment)
-    * [Version Control](#version-control)
-    * [GitHub Pages](#github-pages)
-    * [Cloning this Repository](#cloning-this-repository)
-* [credits](#credits)
-* [Acknowledgements](#acknowledgements)
+This repository is for building basic components with vanilla JavaScript.
+
+The content used and inspiration for completing this repository comes from [freeCodeCamps - Build 15 JavaScript Projects - Vanilla JavaScript Course](https://www.youtube.com/watch?v=3PHXvlpOkf4&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&start_radio=1&rv=3PHXvlpOkf4&t=0).
+
+It is my sole intention to use this repository to refresh my skill set using vanilla JavaScript.
+
+## Included:
+
+- Color Flipper
+- Counter
+- Reviews
+- Navbar
+- Sidebar
+- Modal
+- Questions
+- Menu
+- Video
+- Scroll
+- Tabs
+- Countdown
+- Lorem Ipsum
+- Grocery
+- Slider
